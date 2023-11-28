@@ -1,0 +1,1 @@
+This repository contains a collection of programming questions and solutions in the JAVA programming language. The questions cover various fundamental concepts such as Input/Output, Operators, Decision Control, Loops, Functions, Arrays, Strings, Pointers and more.
